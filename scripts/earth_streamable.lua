@@ -16,7 +16,7 @@
                                 SilentAim = true,
                                 AimLock = false,
                                 Prediction = 0.1344,
-                                AimLockKeybind = Enum.KeyCode.E
+                                AimLockKeybind = Enum.KeyCode.C
                             }
                             getgenv().DaHoodSettings = DaHoodSettings
                             
