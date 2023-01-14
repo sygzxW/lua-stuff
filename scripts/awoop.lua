@@ -7,7 +7,7 @@ local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local ImageLabel = Instance.new("ImageLabel")
 local sound = Instance.new("Sound")
-sound.SoundId = "rbxassetid://9120386436"
+sound.SoundId = "rbxassetid://5567523008"
 sound.Looped = true
 sound.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
 sound:Play()
