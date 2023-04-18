@@ -4,7 +4,7 @@ for SAI:
 getgenv().SAI = {
     Options = {
         ToggleKey = "P", -- anti lock keybind
-		AntiType = "VelBreaker", -- Sky,SkyV2,Underground,UndergroundV2,Shake,Backwards,Desync,Mouse,PredBreaker
+	AntiType = "VelBreaker", -- Sky,SkyV2,Underground,UndergroundV2,Shake,Backwards,Desync,Mouse,PredBreaker
     },
     Aimviewer = {
         ToggleKey = "L", -- aim viewer toggle keybind
