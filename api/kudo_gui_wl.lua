@@ -1,4 +1,4 @@
-return = {
+return {
     2743908389, -- raymy alt
     532976710, -- sygzx
     722529705, -- sivyen(kudo)
