@@ -6,4 +6,5 @@ return {
 	3637717891, -- helloooooo alt
 	192640445, -- hard
 	2743908389, -- raymy alt
+	1989266725, -- cnlyfans
 }
