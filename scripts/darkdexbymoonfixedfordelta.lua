@@ -11058,7 +11058,7 @@ Main = (function()
 		-- Fetch version if needed
 		intro.SetProgress("Fetching Roblox Version",0.2)
 		if Main.Elevated then
-			Main.RobloxVersion = Main.RobloxVersion or game:HttpGet("http://setup.roblox.com/versionQTStudio")
+			Main.RobloxVersion = Main.RobloxVersion or 'version-614741b3a1844d17'
 		end
 		
 		-- Fetch external deps
